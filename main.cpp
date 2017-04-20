@@ -1,7 +1,3 @@
-/***
-*  Author: Daniel Palacio
-*/
-
 
 
 #include "token.hpp"
