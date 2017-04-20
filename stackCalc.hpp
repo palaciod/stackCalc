@@ -1,7 +1,4 @@
-/***
- *
- *  Author: Daniel Palacio
- */
+
 
 #ifndef STACKCALC_HPP
 #define STACKCALC_HPP
