@@ -1,6 +1,4 @@
-/***
- *  Author: Daniel Palacio
- */
+
 
 
 #ifndef TOKEN_HPP
